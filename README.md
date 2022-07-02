@@ -17,3 +17,10 @@ A habit tracker to keep track of how long you stay away from bad habits.
 - Can create counters.
 - Can customize appearance of counters.
 - Can reset counters.
+
+### Images:
+<p float="left">
+  <img src="image1.png" width="250">
+  <img src="image2.png" width="250">
+  <img src="image3.png" width="250">
+</p>
