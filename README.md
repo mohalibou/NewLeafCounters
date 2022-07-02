@@ -11,3 +11,9 @@ A habit tracker to keep track of how long you stay away from bad habits.
 - SwiftUI
 - UIKit
 - CoreData
+
+### Features:
+
+- Can create counters.
+- Can customize appearance of counters.
+- Can reset counters.
