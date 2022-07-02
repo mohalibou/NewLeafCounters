@@ -17,6 +17,7 @@ A habit tracker to keep track of how long you stay away from bad habits.
 - Can create counters.
 - Can customize appearance of counters.
 - Can reset counters.
+- Supports light and dark mode.
 
 ### Images:
 <p float="left">
