@@ -1,4 +1,4 @@
-# <p float="left"> <img src="icon.png" width="50"> <p>New Leaf Counters</p> </p>
+# New Leaf Counters
 
 A habit tracker to keep track of how long you stay away from bad habits.
 
