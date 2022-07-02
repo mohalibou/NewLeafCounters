@@ -1,4 +1,4 @@
-# New Leaf Counters <img src="app-store.png" width="150">
+# New Leaf Counters <img src="icon.png" width="150">
 
 A habit tracker to keep track of how long you stay away from bad habits.
 
