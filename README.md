@@ -1,4 +1,4 @@
-# <img src="icon.png" width="50"> <p>New Leaf Counters</p>
+# <div text-align="center"> <img src="icon.png" width="50"> <p>New Leaf Counters</p> </div>
 
 A habit tracker to keep track of how long you stay away from bad habits.
 
